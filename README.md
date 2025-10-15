@@ -19,6 +19,5 @@ This project demonstrates how a GPT-powered agent can autonomously negotiate and
 - json, time, os, google.colab.userdata
 
 
-📚 Concept
-This project explores intelligent negotiation systems powered by large language models.
+📚 Concept: This project explores intelligent negotiation systems powered by large language models.
 It bridges classical agent theory (JADE) with modern LLM-based function calling, enabling fully autonomous purchasing decisions.
